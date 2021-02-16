@@ -14,7 +14,7 @@ Ideally, the solution would be a simple SPI transceiver that could be connected 
 A partial solution was suggested on the 6502.org forum nearly a year ago involving bit-banging SPI, and then a faster hardware proposal making use of the 74HC299 universal shift register.
 
 
-http://forum.6502.org/viewtopic.php?f=12&t=6066&start=30#p74650
+http://forum.6502.org/viewtopic.php?f=12&t=6066&start=60
 
 
 This repository explores the TTL shift register solution further, with the aim of building a simple TTL design that will interface to a typical microprocessor bus.

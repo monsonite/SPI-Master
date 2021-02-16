@@ -20,6 +20,13 @@ http://forum.6502.org/viewtopic.php?f=12&t=6066&start=60
 This repository explores the TTL shift register solution further, with the aim of building a simple TTL design that will interface to a typical microprocessor bus.
 
 
+Whilst an SPI interface could be implemented using a programmable logic device such as the ATF750 CPLD:
+
+https://ww1.microchip.com/downloads/en/DeviceDoc/doc0776.pdf
+
+the challenge here is to explore the TTL options. This gives a better understanding of the features required and how to implement them in discrete logic.
+
+
 Initial simulations have been performed using H. Neemans "Digital" simulator - available here on Github https://github.com/hneemann/Digital
 
 
